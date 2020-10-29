@@ -26,7 +26,7 @@ params:
     # - speakers
     # - schedule
     # - sponsors
-    # - partners
+    - partners
     # - contact
 
   # Titles which you can translate to other languages
@@ -36,7 +36,7 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     sponsors: "Sponsors"
-    partners: "Partners"
+    partners: "Organizers"
     contact: "Contact"
 
   # The Call To Action button at the header,
@@ -55,14 +55,14 @@ params:
   #     logo: "/img/hugo.png"
   #     url: "http://gohugo.io"
 
-  # List of Partners
-  # Partners:
-  #   - name: "Hugo"
-  #     logo: "/img/hugo.jpg"
-  #     url: "https://gohugo.io"
-  #   - name: "BrazilJS"
-  #     logo: "/img/partner.png"
-  #     url: "http://braziljs.org"
+  List of Partners
+  Partners:
+    - name: "Ministry of Health of Mongolia"
+      logo: "/img/moh.png"
+      url: "https://www.mohs.mn/home"
+    - name: "National Center for Communicable Diseases"
+      logo: "/img/nccd.jpg"
+      url: "https://www.nccd.gov.mn/"
 
   # The entire schedule
   # Schedule:
