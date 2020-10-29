@@ -27,11 +27,11 @@ params:
     # - schedule
     # - sponsors
     # - partners
-    #- contact
+    - contact
 
   # Titles which you can translate to other languages
   Titles:
-    about: "About"
+    about: "Invitation"
     location: "Location"
     speakers: "Speakers"
     schedule: "Schedule"
