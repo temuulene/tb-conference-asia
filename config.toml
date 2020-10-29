@@ -1,5 +1,0 @@
-theme = "hugo-conference"
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Third International Conference on TB in Asia"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
