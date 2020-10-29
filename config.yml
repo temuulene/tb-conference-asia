@@ -25,7 +25,7 @@ params:
     # - location
     # - speakers
     # - schedule
-    - sponsors
+    # - sponsors
     # - partners
     # - contact
 
@@ -49,11 +49,11 @@ params:
   # ForkButton:
     # repository: "https://github.com/jweslley/hugo-conference/"
 
-  List of Sponsors
-  Sponsors:
-    - name: "Hugo"
-      logo: "/img/hugo.png"
-      url: "http://gohugo.io"
+  # List of Sponsors
+  # Sponsors:
+  #   - name: "Hugo"
+  #     logo: "/img/hugo.png"
+  #     url: "http://gohugo.io"
 
   # List of Partners
   # Partners:
