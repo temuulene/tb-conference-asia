@@ -2,6 +2,7 @@ baseurl: "https://tbinasia2020.netlify.app/"
 title: "Seeking Ways to Eliminate TB in Asia"
 canonifyurls: true
 theme: "hugo-conference"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 GoogleAnalytics: "G-1XJRY9BD6F"
 
