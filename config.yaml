@@ -26,18 +26,18 @@ params:
     # - location
     # - speakers
     # - schedule
-    # - sponsors
-    # - partners
+    - sponsors
+    - partners
     # - contact
 
   # Titles which you can translate to other languages
   Titles:
     about: "Invitation"
-    location: "Location"
+    location: "Registration"
     speakers: "Speakers"
     schedule: "Schedule"
-    sponsors: "Sponsors"
-    partners: "Partners"
+    sponsors: "Sponsor"
+    partners: "Organizers"
     contact: "Contact"
 
   # The Call To Action button at the header,
@@ -51,19 +51,19 @@ params:
     # repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
-  # Sponsors:
-  #   - name: "Hugo"
-  #     logo: "/img/hugo.png"
-  #     url: "http://gohugo.io"
+  Sponsors:
+    - name: "Korean National Tuberculosis Association"
+      logo: "/img/knta.jpg"
+      url: "http://www.stoptbk.org/"
 
   # List of Partners
-  # Partners:
-  #   - name: "Ministry of Health of Mongolia"
-  #     logo: "/img/hugo.png"
-  #     url: "https://www.mohs.mn/home"
-  #   - name: "National Center for Communicable Diseases"
-  #     logo: "/img/hugo.jpg"
-  #     url: "https://www.nccd.gov.mn/"
+  Partners:
+    - name: "Ministry of Health of Mongolia"
+      logo: "/img/moh.png"
+      url: "https://www.mohs.mn/home"
+    - name: "National Center for Communicable Diseases"
+      logo: "/img/nccd.jpg"
+      url: "https://www.nccd.gov.mn/"
 
   # The entire schedule
   # Schedule:
