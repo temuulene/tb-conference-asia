@@ -10,12 +10,12 @@ params:
   # Conference info
   Name: "Seeking Ways to Eliminate TB in Asia"
   Description: "Third International Conference on TB in Asia"
-  Date: "December 10"
+  Date: "December 17"
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "Zoom Webinar"
   Address: "TBD"
-  City:  "Ulaanbaatar"
-  Country: "Mongolia"
+  City:  "Seoul, Korea & Ulaanbaatar, Mongolia"
+  Country: "Korea & Mongolia"
   Images: ["/img/badge.jpg"]
   # GoogleMapsKey: "my-secret-maps-key"
 
@@ -43,7 +43,7 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Submit your abstracts now!"
+    text: "Submit your abstracts and presentation now!"
     link: "https://app.oxfordabstracts.com/stages/2250/submitter"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
